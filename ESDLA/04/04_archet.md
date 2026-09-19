@@ -34,13 +34,13 @@ Hobbit de Budgeford, en la Comarca. Veintinueve años.
 
 Tillo tiene el rostro redondo, el cabello castaño muy rizado y la costumbre de hablar con las manos cuando se pone nervioso. Llegó a las Tierras de Bree con una carta y un cesto de quesos para un primo de Staddle. El primo está bien, el queso también, y Tillo ya debería haber emprendido el regreso. La historia de Elira y esa luz pálida junto a las ruinas le han dejado el corazón inquieto.
 
-Carácter: cortés, curioso y leal. Come un bocado cuando necesita pensar. Recuerda voces, chismes y olores con una precisión que sorprende a los Hombres.
+**Carácter:** cortés, curioso y leal. Come un bocado cuando necesita pensar. Recuerda voces, chismes y olores con una precisión que sorprende a los Hombres.
 
-Aptitudes destacadas: moverse sin hacer ruido, escuchar tras una puerta, cocinar con lo que haya, lanzar una piedra con tino y ganarse la confianza de la gente sencilla.
+**Aptitudes destacadas:** moverse sin hacer ruido, escuchar tras una puerta, cocinar con lo que haya, lanzar una piedra con tino y ganarse la confianza de la gente sencilla.
 
-Equipo: mochila de cuero, capa impermeable, navaja de mango de boj, pipa, yesca, un trozo de queso envuelto en tela y ocho monedas de plata.
+**Equipo:** mochila de cuero, capa impermeable, navaja de mango de boj, pipa, yesca, un trozo de queso envuelto en tela y ocho monedas de plata.
 
-Lazo con la aventura: pasó la tarde en La Jarra de Cebada y fue de los primeros en oír a Elira. Se siente responsable de una muchacha que le recuerda a su hermana pequeña.
+**Lazo con la aventura:** pasó la tarde en La Jarra de Cebada y fue de los primeros en oír a Elira. Se siente responsable de una muchacha que le recuerda a su hermana pequeña.
 
 ### Edda Cercado
 
@@ -121,5 +121,3 @@ Osric conoce cada sendero del borde del Chetwood porque ha perdido ovejas en tod
 **Equipo:** bastón con contera de hierro, cuchillo de campo, capa de lana gruesa, silbato, hogaza y un farol de granja.
 
 **Lazo con la aventura:** las dos ovejas desaparecidas son de su tío. Las huellas que Elira vio en el barro las siguió él mismo hasta el primer recodo del bosque, y allí se detuvo al oír el aullido.
-
-

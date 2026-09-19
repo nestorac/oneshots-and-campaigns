@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:document-statistic meta:table-count="0" meta:image-count="6" meta:object-count="0" meta:page-count="2" meta:paragraph-count="73" meta:word-count="1389" meta:character-count="8025" meta:non-whitespace-character-count="6704"/><meta:generator>LibreOffice/26.8.0.3$Linux_X86_64 LibreOffice_project/bce0998afefdbc355585ca324285661a2170ba77</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">17050</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22128</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">12853</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2563</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2925</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">17050</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22126</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">29901</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">139</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">0,32,1921,1009;5;0,32,1921,1009;</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="UseTrailingEmptyLinesInLayout" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ListLabelAlignmentIgnoresDirection" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AdjustTableLineHeightsToGridHeight" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BalanceSpacesAndIdeographicSpaces" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompGridMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MinRowHeightInclBorder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordUlTrailSpace" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoClippingWithWrapPolygon" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1911182</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ForceTopAlignmentInCellWithFloatingAnchor" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HiddenParagraphMarkPerLineProperties" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1911182</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Noto Sans1" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="WenQuanYi Zen Hei" svg:font-family="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="ES" style:letter-kerning="true" style:font-name-asian="WenQuanYi Zen Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" loext:font-optical-sizing="auto"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" loext:hyphenation-keep-line="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="es" fo:country="ES" style:font-name-asian="WenQuanYi Zen Hei" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" loext:font-optical-sizing="auto" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit" loext:hyphenation-compound-remain-char-count="2" loext:hyphenation-compound-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="WenQuanYi Zen Hei" style:font-family-asian="&apos;WenQuanYi Zen Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans1" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" draw:fill="none"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="nothing"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <loext:theme loext:name="Office">
+   <loext:theme-colors loext:name="LibreOffice">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#000000"/>
+    <loext:color loext:name="light2" loext:color="#ffffff"/>
+    <loext:color loext:name="accent1" loext:color="#18a303"/>
+    <loext:color loext:name="accent2" loext:color="#0369a3"/>
+    <loext:color loext:name="accent3" loext:color="#a33e03"/>
+    <loext:color loext:name="accent4" loext:color="#8e03a3"/>
+    <loext:color loext:name="accent5" loext:color="#c99c00"/>
+    <loext:color loext:name="accent6" loext:color="#c9211e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0000ee"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#551a8b"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-style="italic"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">La aldea de Robledanza</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Comienzo de aventura</text:h>
+   <text:p text:style-name="Text_20_body">En la aldea de Robledanza, al pie de los bosques de Dyss, la primavera ha llegado con un aire extraño y dulce. Los seis jóvenes héroes se encuentran juntos junto al pozo de las historias, donde siempre se reúnen cuando algo importante está a punto de suceder.</text:p>
+   <text:p text:style-name="Text_20_body">Lira es una elfa exploradora de pasos ligeros. Lleva un arco de sauce y suele escuchar primero a los pájaros antes de hablar. Brum es un enano guerrero de escudo runado y corazón leal; se coloca delante de sus amigos cuando percibe peligro. Nilo es un humano mago que guarda un cuaderno de hojas prensadas y pregunta por todo lo que brilla. Mishi es una chica gato pícara, rápida para trepar y para descubrir lo que otros pasan por alto. Canto es un fauno sanador que cura con canciones suaves y una flauta de caña. Estrella es una poni de unicornio maga cuyo cuerno emite una luz tibia; camina con dignidad y siente la magia de la tierra bajo los cascos.</text:p>
+   <text:p text:style-name="Text_20_body">De pronto el silencio se llena de un sonido de cascos muy suaves. Entre los árboles aparece un unicornio adulto de pelaje blanco lechoso y crin plateada. Su cuerno resplandece con destellos irregulares, como si una estrella se hubiera posado allí y ahora parpadeara. Se detiene ante el grupo, inclina la cabeza y habla con una voz clara y musical que todos comprenden.</text:p>
+   <text:p text:style-name="Text_20_body">El unicornio se llama Alba y viene del claro de las tres fuentes. Allí crece la Flor del Primer Rocío, una planta que solo abre sus pétalos cuando seis corazones distintos trabajan juntos. Esta noche la flor ha empezado a cerrarse antes de tiempo y el claro se oscurece. Alba pide ayuda para recoger tres gotas de rocío especial: una de la fuente que canta, otra de la fuente que sueña y otra de la fuente que recuerda. Con esas tres gotas la flor volverá a abrirse y el bosque recobrará su luz.</text:p>
+   <text:p text:style-name="Text_20_body">Alba ofrece a Estrella un hilo de su propia crin, que brilla al contacto con el cuerno de la poni. Ese hilo servirá de guía si el grupo se separa entre la niebla del claro. Luego el unicornio da un paso atrás y espera la decisión de los seis amigos.</text:p>
+   <text:p text:style-name="Text_20_body">En este momento cada personaje puede presentarse ante Alba, mostrar lo que mejor sabe hacer y decidir cómo emprender el camino hacia el claro. El bosque espera, las fuentes cantan a lo lejos y la primera aventura de Robledanza comienza con un unicornio que confía en ellos.</text:p>
+   <text:p text:style-name="Text_20_body">Aquí tienes las seis fichas listas para jugar en modo héroe de Magissa, pensadas para que cada niña o niño reconozca enseguida a su personaje. Junto a cada ficha va un retrato de estilo manga, luminoso y cercano al espíritu de cuento de Dyss.</text:p>
+   <text:p text:style-name="Text_20_body">El grupo suma siete dados de características en total por persona, con oficios distintos para que todos tengan un momento brillante en el claro de las tres fuentes. Puedes copiar los datos a las hojas oficiales o usar estas fichas tal cual.</text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Personajes Jugadores</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Lira, elfa exploradora de Robledanza</text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="4.974cm" svg:height="1cm" draw:z-index="0"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/lira_hojacanto.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T1">Lira Hojacanto</text:span> es una <text:span text:style-name="T1">elfa exploradora</text:span>. Su arco de sauce y su oído de bosque la convierten en la mirada del grupo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> cabello verde hoja trenzado con florecillas, orejas altas y mirada atenta. Voz suave, como quien no quiere asustar a los pájaros.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 1 dado. Agilidad 2 dados. Cuerpo 1 dado. Mente 2 dados. Encanto 1 dado.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Habilidades:</text:span> Combate a distancia, Percibir, Rastrear y Sigilo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 6. Defensa 4. Heridas 3. Energía 6.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> arco de sauce, aljaba con seis flechas emplumadas de jilguero, cuerda corta, cantimplora y un silbato de madera que imita el canto del mirlo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza:</text:span> comprende el lenguaje sencillo de las aves del bosque y distingue rastros recientes con facilidad.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «El bosque ya nos está contando el camino.»</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Brum, enano guerrero</text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="5.503cm" svg:height="1cm" draw:z-index="1"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/brum_piedralegre.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Brum Piedralegre</text:span> es un <text:span text:style-name="T1">guerrero enano</text:span>. Su escudo runado y su paso firme hacen de él el ancla del grupo cuando el claro se oscurece.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> estatura baja y ancha, barba joven trenzada con una cuenta de bronce, pecas y una sonrisa que aparece cuando protege a alguien.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 2 dados. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 1 dado.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Habilidades:</text:span> Combate cuerpo a cuerpo, Atletismo y Percibir.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 4. Defensa 5. Heridas 4. Energía 7.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> espada corta de familia, escudo redondo con una runa de amparo, mochila, manta de viaje y una piedra de afilar envuelta en paño.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza:</text:span> ve con claridad en penumbra y aguanta más tiempo el cansancio que la mayoría de sus amigos.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «Yo voy delante. Vosotros contadme lo que brilla.»</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Nilo, humano mago</text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="6.165cm" svg:height="1cm" draw:z-index="2"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/nilo_cuadernoluz.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Nilo Cuadernoluz</text:span> es un <text:span text:style-name="T1">mago humano</text:span>. Su cuaderno de hojas prensadas guarda preguntas, dibujos y el primer hechizo que aprendió junto al pozo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> cabello oscuro revuelto, capa con parches de estrellas y un cuaderno atado con cinta roja. Siempre tiene una mancha de tinta en los dedos.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T2">Habilidades:</text:span> Magia, Conocimiento e Interacción.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 5. Defensa 3. Heridas 3. Energía 8.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> bastón de avellano, cuaderno de hojas prensadas, tiza, una vela corta y una bolsita de polen luminoso.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza y talento extra:</text:span> se adapta a cualquier oficio del grupo y recuerda con facilidad canciones, nombres y pequeños secretos del pueblo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Hechizo inicial:</text:span> Chispa de guía, una lucecita que señala el sendero durante un breve rato.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «Si lo dibujo, lo entendemos mejor.»</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Mishi, chica gato pícara</text:h>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Mishi Zarparrápida</text:span> es una <text:span text:style-name="T1">chica gato pícara</text:span>. Trepa primero, escucha después y encuentra lo que el claro esconde entre raíces.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> orejas de gato crema y jengibre, cola rayada que delata su humor, mirada viva y una capucha que casi nunca está del todo puesta.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 1 dado. Agilidad 3 dados. Cuerpo 1 dado. Mente 1 dado. Encanto 1 dado.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Habilidades:</text:span> Sigilo, Tomar prestado, Atletismo y Combate a distancia.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 7. Defensa 4. Heridas 3. Energía 6.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> honda, bolsa de piedras lisas, cuerda con gancho ligero, capucha de hojas y un saquito para tesoros diminutos.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza:</text:span> trepa troncos y tejados con la misma facilidad con que otros caminan, y aterriza de puntillas.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «Yo miro desde arriba. Allí se ve el truco.»</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Canto, fauno sanador</text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="5.689cm" svg:height="1cm" draw:z-index="3"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/mishi_zarparrapida.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image5" text:anchor-type="as-char" svg:width="5.345cm" svg:height="1cm" draw:z-index="4"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/canto_pradovivo.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Canto Pradovivo</text:span> es un <text:span text:style-name="T1">fauno sanador</text:span>. Su flauta de caña calma heridas, miedos y hasta alguna fuente obstinada.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> cuernitos cortos, pelo rizado, corona de margaritas y una flauta de caña colgada al cuello. Camina con un ritmo que invita a seguirlo.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 1 dado. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 2 dados.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Habilidades:</text:span> Curar, Interacción y Domar animales.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 5. Defensa 3. Heridas 3. Energía 8.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> flauta de caña, bolsa de hierbas de alivio, venda limpia, cantimplora de agua de manantial y un panal envuelto.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza:</text:span> su música abre el corazón de las criaturas del prado y ayuda a que las heridas leves se <text:soft-page-break/>cierren con más prisa.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Hechizo inicial:</text:span> Alivio de la magissa, un soplo de calma que restaura un poco de Energía o suaviza una Herida.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «Respira conmigo. La canción ya está trabajando.»</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Estrella, poni de unicornio</text:h>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image6" text:anchor-type="as-char" svg:width="4.075cm" svg:height="1cm" draw:z-index="5"><draw:image xlink:href="file:///home/nestor/Documents/oneshots-and-campaigns/Magissa/pj/estrella_rocioprimer.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T1">Estrella Rocío</text:span> es una <text:span text:style-name="T1">maga unicornio</text:span>. Su cuerno recoge la luz de Alba y la convierte en guía para las tres fuentes.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Apariencia:</text:span> cabello blanco plateado que cae como crin, cuerno en espiral de nácar, orejas altas y una cola sedosa. Cuando se emociona, el cuerno toma un brillo dorado.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Características:</text:span> Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Habilidades:</text:span> Magia, Encanto, Percibir y Curar.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Valores de juego:</text:span> Movimiento 6. Defensa 3. Heridas 3. Energía 8.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Equipo:</text:span> hilo de crin de Alba (guía en la niebla), diadema de rocío, satén para envolver las tres gotas y un broche en forma de flor cerrada.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Don de raza:</text:span> su cuerno detecta magia viva y puede iluminar un camino breve cuando las fuentes se quedan en silencio.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Hechizo inicial:</text:span> Luz de cuerno, un resplandor cálido que señala la gota de rocío más cercana.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T2">Frase habitual:</text:span> «Si el cuerno canta, la flor todavía nos espera.»</text:p>
+   <text:p text:style-name="Text_20_body"/>
+  </office:text>
+ </office:body>
+</office:document>
