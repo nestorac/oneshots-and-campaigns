@@ -22,126 +22,124 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Lira, elfa exploradora de Robledanza
 
-![](pj/lira_hojacanto.jpg)
+<img title="" src="pj/lira_hojacanto.jpg" alt="" width="188" data-align="center">
 
-Su arco de sauce y su oído de bosque la convierten en la mirada del grupo.Nombre: Lira Hojacanto. Raza: elfa. Oficio: exploradora.
+*Lira Hojacanto* es una *elfa exploradora*. Su arco de sauce y su oído de bosque la convierten en la mirada del grupo.
 
-Apariencia: cabello verde hoja trenzado con florecillas, orejas altas y mirada atenta. Voz suave, como quien no quiere asustar a los pájaros.
+**Apariencia:** cabello verde hoja trenzado con florecillas, orejas altas y mirada atenta. Voz suave, como quien no quiere asustar a los pájaros.
 
-Características: Fuerza 1 dado. Agilidad 2 dados. Cuerpo 1 dado. Mente 2 dados. Encanto 1 dado.
+**Características:** Fuerza 1 dado. Agilidad 2 dados. Cuerpo 1 dado. Mente 2 dados. Encanto 1 dado.
 
-Habilidades que más usa: Combate a distancia, Percibir, Rastrear y Sigilo.
+**Habilidades:** Combate a distancia, Percibir, Rastrear y Sigilo.
 
-Valores de juego: Movimiento 6. Defensa 4. Heridas 3. Energía 6.
+**Valores de juego:** Movimiento 6. Defensa 4. Heridas 3. Energía 6.
 
-Equipo: arco de sauce, aljaba con seis flechas emplumadas de jilguero, cuerda corta, cantimplora y un silbato de madera que imita el canto del mirlo.
+**Equipo:** arco de sauce, aljaba con seis flechas emplumadas de jilguero, cuerda corta, cantimplora y un silbato de madera que imita el canto del mirlo.
 
-Don de raza: comprende el lenguaje sencillo de las aves del bosque y distingue rastros recientes con facilidad.
+**Don de raza:** comprende el lenguaje sencillo de las aves del bosque y distingue rastros recientes con facilidad.
 
-Frase habitual: «El bosque ya nos está contando el camino.»
+**Frase habitual:** «El bosque ya nos está contando el camino.»
 
 ## Brum, enano guerrero
 
-![](pj/brum_piedralegre.jpg)
+<img title="" src="pj/brum_piedralegre.jpg" alt="" width="208" data-align="center">
 
-Su escudo runado y su paso firme hacen de él el ancla del grupo cuando el claro se oscurece.Nombre: Brum Piedralegre. Raza: enano. Oficio: guerrero.
+*Brum Piedralegre* es un *guerrero enano*. Su escudo runado y su paso firme hacen de él el ancla del grupo cuando el claro se oscurece.
 
-Apariencia: estatura baja y ancha, barba joven trenzada con una cuenta de bronce, pecas y una sonrisa que aparece cuando protege a alguien.
+**Apariencia:** estatura baja y ancha, barba joven trenzada con una cuenta de bronce, pecas y una sonrisa que aparece cuando protege a alguien.
 
-Características: Fuerza 2 dados. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 1 dado.
+**Características:** Fuerza 2 dados. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 1 dado.
 
-Habilidades que más usa: Combate cuerpo a cuerpo, Atletismo y Percibir.
+**Habilidades:** Combate cuerpo a cuerpo, Atletismo y Percibir.
 
-Valores de juego: Movimiento 4. Defensa 5. Heridas 4. Energía 7.
+**Valores de juego:** Movimiento 4. Defensa 5. Heridas 4. Energía 7.
 
-dEquipo: espada corta de familia, escudo redondo con una runa de amparo, mochila, manta de viaje y una piedra de afilar envuelta en paño.
+**Equipo:** espada corta de familia, escudo redondo con una runa de amparo, mochila, manta de viaje y una piedra de afilar envuelta en paño.
 
-Don de raza: ve con claridad en penumbra y aguanta más tiempo el cansancio que la mayoría de sus amigos.
+**Don de raza:** ve con claridad en penumbra y aguanta más tiempo el cansancio que la mayoría de sus amigos.
 
-Frase habitual: «Yo voy delante. Vosotros contadme lo que brilla.»
+**Frase habitual:** «Yo voy delante. Vosotros contadme lo que brilla.»
 
 ## Nilo, humano mago
 
-![](pj/nilo_cuadernoluz.jpg)
+<img title="" src="pj/nilo_cuadernoluz.jpg" alt="" width="233" data-align="center">
 
-Su cuaderno de hojas prensadas guarda preguntas, dibujos y el primer hechizo que aprendió junto al pozo.Nombre: Nilo Cuadernoluz. Raza: humano. Oficio: mago.
+*Nilo Cuadernoluz* es un *mago humano*. Su cuaderno de hojas prensadas guarda preguntas, dibujos y el primer hechizo que aprendió junto al pozo.
 
-Apariencia: cabello oscuro revuelto, capa con parches de estrellas y un cuaderno atado con cinta roja. Siempre tiene una mancha de tinta en los dedos.
+**Apariencia:** cabello oscuro revuelto, capa con parches de estrellas y un cuaderno atado con cinta roja. Siempre tiene una mancha de tinta en los dedos.
 
-Características: Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.
+**Características:** Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.
 
-Habilidades que más usa: Magia, Conocimiento e Interacción.
+**Habilidades:** Magia, Conocimiento e Interacción.
 
-Valores de juego: Movimiento 5. Defensa 3. Heridas 3. Energía 8.
+**Valores de juego:** Movimiento 5. Defensa 3. Heridas 3. Energía 8.
 
-Equipo: bastón de avellano, cuaderno de hojas prensadas, tiza, una vela corta y una bolsita de polen luminoso.
+**Equipo:** bastón de avellano, cuaderno de hojas prensadas, tiza, una vela corta y una bolsita de polen luminoso.
 
-Don de raza y talento extra: se adapta a cualquier oficio del grupo y recuerda con facilidad canciones, nombres y pequeños secretos del pueblo.
+**Don de raza y talento extra:** se adapta a cualquier oficio del grupo y recuerda con facilidad canciones, nombres y pequeños secretos del pueblo.
 
-Hechizo inicial: Chispa de guía, una lucecita que señala el sendero durante un breve rato.
+**Hechizo inicial:** Chispa de guía, una lucecita que señala el sendero durante un breve rato.
 
-Frase habitual: «Si lo dibujo, lo entendemos mejor.»
+**Frase habitual:** «Si lo dibujo, lo entendemos mejor.»
 
 ## Mishi, chica gato pícara
 
-Trepa primero, escucha después y encuentra lo que el claro esconde entre raíces.Nombre: Mishi Zarparrápida. Raza: chica gato. Oficio: pícara.
+<img title="" src="pj/mishi_zarparrapida.jpg" alt="" width="215" data-align="center">*Mishi Zarparrápida* es una *chica gato pícara*. Trepa primero, escucha después y encuentra lo que el claro esconde entre raíces.
 
-Apariencia: orejas de gato crema y jengibre, cola rayada que delata su humor, mirada viva y una capucha que casi nunca está del todo puesta.
+**Apariencia:** orejas de gato crema y jengibre, cola rayada que delata su humor, mirada viva y una capucha que casi nunca está del todo puesta.
 
-Características: Fuerza 1 dado. Agilidad 3 dados. Cuerpo 1 dado. Mente 1 dado. Encanto 1 dado.
+**Características:** Fuerza 1 dado. Agilidad 3 dados. Cuerpo 1 dado. Mente 1 dado. Encanto 1 dado.
 
-Habilidades que más usa: Sigilo, Tomar prestado, Atletismo y Combate a distancia.
+**Habilidades:** Sigilo, Tomar prestado, Atletismo y Combate a distancia.
 
-Valores de juego: Movimiento 7. Defensa 4. Heridas 3. Energía 6.
+**Valores de juego:** Movimiento 7. Defensa 4. Heridas 3. Energía 6.
 
-Equipo: honda, bolsa de piedras lisas, cuerda con gancho ligero, capucha de hojas y un saquito para tesoros diminutos.
+**Equipo:** honda, bolsa de piedras lisas, cuerda con gancho ligero, capucha de hojas y un saquito para tesoros diminutos.
 
-Don de raza: trepa troncos y tejados con la misma facilidad con que otros caminan, y aterriza de puntillas.
+**Don de raza:** trepa troncos y tejados con la misma facilidad con que otros caminan, y aterriza de puntillas.
 
-Frase habitual: «Yo miro desde arriba. Allí se ve el truco.»
+**Frase habitual:** «Yo miro desde arriba. Allí se ve el truco.»
 
 ## Canto, fauno sanador
 
-![](pj/canto_pradovivo.jpg)
+<img title="" src="pj/canto_pradovivo.jpg" alt="" width="202" data-align="center">
 
-Su flauta de caña calma heridas, miedos y hasta alguna fuente obstinada.Nombre: Canto Pradovivo. Raza: fauno. Oficio: sanador.
+*Canto Pradovivo* es un *fauno sanador*. Su flauta de caña calma heridas, miedos y hasta alguna fuente obstinada.
 
-Apariencia: cuernitos cortos, pelo rizado, corona de margaritas y una flauta de caña colgada al cuello. Camina con un ritmo que invita a seguirlo.
+**Apariencia:** cuernitos cortos, pelo rizado, corona de margaritas y una flauta de caña colgada al cuello. Camina con un ritmo que invita a seguirlo.
 
-Características: Fuerza 1 dado. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 2 dados.
+**Características:** Fuerza 1 dado. Agilidad 1 dado. Cuerpo 2 dados. Mente 1 dado. Encanto 2 dados.
 
-Habilidades que más usa: Curar, Interacción y Domar animales.
+**Habilidades:** Curar, Interacción y Domar animales.
 
-Valores de juego: Movimiento 5. Defensa 3. Heridas 3. Energía 8.
+**Valores de juego:** Movimiento 5. Defensa 3. Heridas 3. Energía 8.
 
-Equipo: flauta de caña, bolsa de hierbas de alivio, venda limpia, cantimplora de agua de manantial y un panal envuelto.
+**Equipo:** flauta de caña, bolsa de hierbas de alivio, venda limpia, cantimplora de agua de manantial y un panal envuelto.
 
-Don de raza: su música abre el corazón de las criaturas del prado y ayuda a que las heridas leves se cierren con más prisa.
+**Don de raza:** su música abre el corazón de las criaturas del prado y ayuda a que las heridas leves se cierren con más prisa.
 
-Hechizo inicial: Alivio de la magissa, un soplo de calma que restaura un poco de Energía o suaviza una Herida.
+**Hechizo inicial:** Alivio de la magissa, un soplo de calma que restaura un poco de Energía o suaviza una Herida.
 
-Frase habitual: «Respira conmigo. La canción ya está trabajando.»
+**Frase habitual:** «Respira conmigo. La canción ya está trabajando.»
 
 ## Estrella, poni de unicornio
 
-![](pj/estrella_rocioprimer.jpg)
+<img title="" src="pj/estrella_rocioprimer.jpg" alt="" width="154" data-align="center">
 
-Maga. Su cuerno recoge la luz de Alba y la convierte en guía para las tres fuentes.Nombre: Estrella Rocíoprimer. Raza: poni de unicornio. Oficio: maga.
+*Estrella Rocío* es una *maga unicornio*. Su cuerno recoge la luz de Alba y la convierte en guía para las tres fuentes.
 
-Apariencia: cabello blanco plateado que cae como crin, cuerno en espiral de nácar, orejas altas y una cola sedosa. Cuando se emociona, el cuerno toma un brillo dorado.
+**Apariencia:** cabello blanco plateado que cae como crin, cuerno en espiral de nácar, orejas altas y una cola sedosa. Cuando se emociona, el cuerno toma un brillo dorado.
 
-Características: Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.
+**Características:** Fuerza 1 dado. Agilidad 1 dado. Cuerpo 1 dado. Mente 2 dados. Encanto 2 dados.
 
-Habilidades que más usa: Magia, Encanto, Percibir y Curar.
+**Habilidades:** Magia, Encanto, Percibir y Curar.
 
-Valores de juego: Movimiento 6. Defensa 3. Heridas 3. Energía 8.
+**Valores de juego:** Movimiento 6. Defensa 3. Heridas 3. Energía 8.
 
-Equipo: hilo de crin de Alba (guía en la niebla), diadema de rocío, satén para envolver las tres gotas y un broche en forma de flor cerrada.
+**Equipo:** hilo de crin de Alba (guía en la niebla), diadema de rocío, satén para envolver las tres gotas y un broche en forma de flor cerrada.
 
-Don de raza: su cuerno detecta magia viva y puede iluminar un camino breve cuando las fuentes se quedan en silencio.
+**Don de raza:** su cuerno detecta magia viva y puede iluminar un camino breve cuando las fuentes se quedan en silencio.
 
-Hechizo inicial: Luz de cuerno, un resplandor cálido que señala la gota de rocío más cercana.
+**Hechizo inicial:** Luz de cuerno, un resplandor cálido que señala la gota de rocío más cercana.
 
-Frase habitual: «Si el cuerno canta, la flor todavía nos espera.»
-
-Para empezar la sesión, cada jugador elige su ficha, dice en voz alta el nombre y la frase habitual de su personaje, y el narrador describe de nuevo la llegada de Alba. A partir de esa presentación, el grupo decide quién habla primero con el unicornio, quién observa el bosque y quién prepara el hilo de crin antes de partir hacia el claro de las tres fuentes.
+**Frase habitual:** «Si el cuerno canta, la flor todavía nos espera.»
