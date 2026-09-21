@@ -1,9 +1,9 @@
 # Bestiario: fichas a media página A4
 # Uso: make -f Makefile bestiario   (desde oneshots/)
 
-MD          := bestiario.md
-METADATA    := metadata_bestiario.yaml
-FILTER      := filtros/bestiario.lua
+MD          := 04_archet.md
+METADATA    := metadata.yaml
+FILTER      := filtros/aventura.lua
 OUT_DIR     := tmp
 PDF         := $(OUT_DIR)/bestiario.pdf
 
@@ -24,7 +24,7 @@ $(PDF): $(MD) $(METADATA) $(FILTER) | $(OUT_DIR)
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --metadata-file=$(METADATA) \
 	  --lua-filter=$(FILTER) \
-	  --resource-path=.:img:img/monstruos
+	  --resource-path=.:img:pj/
 
 clean-bestiario:
 	rm -f "$(PDF)"
