@@ -23,8 +23,10 @@ local function flush()
     return
   end
 
-  local img = current.img or "img/monstruos/placeholder.jpg"
+  local PLACEHOLDER_IMG = "placeholder.jpg"
+  local img = current.img or PLACEHOLDER_IMG
   local body = table.concat(current.body, "\n\n")
+
   if body == "" then
     body = "\\textit{(sin descripción)}"
   end

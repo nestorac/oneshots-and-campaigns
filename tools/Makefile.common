@@ -1,0 +1,75 @@
+# Oneshots Archet
+# Desde oneshots/:
+#   make pj         -> fichas de personaje (filtro Lua, media pagina)
+#   make aventura   -> relato de la aventura a doble columna A4
+#   make all
+#   make clean
+#
+# Motor: make aventura PDF_ENGINE=pdflatex
+
+
+TOOLS           := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
+METADATA        := $(TOOLS)/metadata/metadata.yaml
+AVENTURA_META   := $(TOOLS)/metadata/metadata_aventura.yaml
+FILTER          := $(TOOLS)/filters/aventura.lua
+
+MD              := pj.md
+AVENTURA_MD     := oneshot.md
+OUT_DIR         := out
+PJ_PDF          := $(OUT_DIR)/pj.pdf
+AVENTURA_PDF    := $(OUT_DIR)/aventura.pdf
+
+PANDOC          := pandoc
+PDF_ENGINE      ?= $(shell \
+	if command -v xelatex >/dev/null 2>&1; then echo xelatex; \
+	elif command -v lualatex >/dev/null 2>&1 && kpsewhich luaotfload.sty >/dev/null 2>&1; then echo lualatex; \
+	elif command -v pdflatex >/dev/null 2>&1; then echo pdflatex; \
+	else echo pdflatex; fi)
+
+MAINFONT        ?= DejaVu Serif
+
+ENGINE_FONT     :=
+ifeq ($(PDF_ENGINE),xelatex)
+ENGINE_FONT     := -V mainfont="$(MAINFONT)"
+endif
+ifeq ($(PDF_ENGINE),lualatex)
+ENGINE_FONT     := -V mainfont="$(MAINFONT)"
+endif
+
+.PHONY: all pj bestiario aventura clean clean-bestiario engine
+
+all: pj aventura
+
+pj: engine $(PJ_PDF)
+bestiario: pj
+
+aventura: engine $(AVENTURA_PDF)
+
+engine:
+	@echo "Motor de PDF: $(PDF_ENGINE)"
+
+$(OUT_DIR):
+	mkdir -p $(OUT_DIR)
+
+$(PJ_PDF): $(MD) $(METADATA) $(FILTER) | $(OUT_DIR)
+	$(PANDOC) "$(MD)" -o "$(PJ_PDF)" \
+	  --from=markdown+smart \
+	  --standalone \
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --metadata-file=$(METADATA) \
+	  --lua-filter=$(FILTER) \
+	  --resource-path=.:img:pj/ \
+	  $(ENGINE_FONT)
+
+$(AVENTURA_PDF): $(AVENTURA_MD) $(AVENTURA_META) | $(OUT_DIR)
+	$(PANDOC) "$(AVENTURA_MD)" -o "$(AVENTURA_PDF)" \
+	  --from=markdown+smart \
+	  --standalone \
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --metadata-file=$(AVENTURA_META) \
+	  --toc --toc-depth=2 \
+	  --resource-path=.:img:pj/ \
+	  $(ENGINE_FONT)
+
+clean clean-bestiario:
+	rm -f "$(PJ_PDF)" "$(AVENTURA_PDF)"
