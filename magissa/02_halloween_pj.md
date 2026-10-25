@@ -1,18 +1,16 @@
-A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo el trasfondo de cada personaje. He mantenido las características y habilidades especiales de la propuesta anterior, pero ahora cada PJ tiene un pequeño “gancho” narrativo que lo conecta con la noche de Halloween en Dyss.
-
----
-
-## Las seis fichas de PJ (con trasfondo)
+# Fichas de PJ
 
 ### 1. Leo — Guerrero humano
 
-| Característica | Dados |
-| -------------- | ----- |
-| Fuerza         | 3     |
-| Agilidad       | 2     |
-| Mente          | 1     |
-| Cuerpo         | 3     |
-| Encanto        | 1     |
+![](img/leo_guerrero.jpg)
+
+| Característica | Dados  |
+| -------------- | ------ |
+| Fuerza         | 3      |
+| Agilidad       | 2      |
+| Mente          | 1![]() |
+| Cuerpo         | 3      |
+| Encanto        | 1      |
 
 **Habilidad especial**: *Valiente*. +1 dado de ventaja contra miedo o amenazas.
 
@@ -20,9 +18,9 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: Su hermana pequeña desapareció con las calabazas. Leo no dejará que nada le asuste.
 
----
-
 ### 2. Mía — Exploradora elfa
+
+![](img/mia_exploradora.jpg)
 
 | Característica | Dados |
 | -------------- | ----- |
@@ -38,9 +36,9 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: El bosque es su casa, y nadie molesta a su casa sin responder ante ella.
 
----
-
 ### 3. Tom — Sanador humano
+
+![](img/tom_sanador.jpg)
 
 | Característica | Dados |
 | -------------- | ----- |
@@ -56,9 +54,9 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: Alguien tiene que asegurarse de que todos vuelvan enteros, por dentro y por fuera.
 
----
-
 ### 4. Luna — Maga fauno
+
+![](img/luna_maga.jpg)
 
 | Característica | Dados |
 | -------------- | ----- |
@@ -74,9 +72,9 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: La magia de Halloween tiene un sabor familiar, y Luna no piensa dejar que nadie la use para hacer daño a su pueblo.
 
----
-
 ### 5. Basti — Ladrón híbrido de gato
+
+![](img/basti_ladron.jpg)
 
 | Característica | Dados |
 | -------------- | ----- |
@@ -92,9 +90,9 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: Curiosidad, sí. Pero también porque, por una vez, quiere ser parte de algo más grande que un robo de manzanas.
 
----
-
 ### 6. Nina — Bardo humana
+
+![](img/nina_bardo.jpg)
 
 | Característica | Dados |
 | -------------- | ----- |
@@ -110,11 +108,11 @@ A continuación desarrollo las seis fichas de PJ y la del jefe final, añadiendo
 
 **Por qué está aquí**: Alguien tiene que mantener el ánimo alto, y Nina no piensa dejar que el miedo gane la noche.
 
----
+### 7. Jefe final: El Rey Calabaza Hueco
 
-## Ficha del jefe final: El Rey Calabaza Hueco
+![](img/rey_calabaza_hueco.jpg)
 
-### Trasfondo del Rey Calabaza Hueco
+#### Trasfondo del Rey Calabaza Hueco
 
 Hubo un tiempo en que el Rey Calabaza no era un rey, sino una calabaza más en el huerto de una anciana que vivía sola en el bosque de Narán. La anciana tallaba calabazas cada Halloween y les hablaba como si fueran sus hijos. La calabaza que se convertiría en rey escuchaba cada noche, deseando ser real, deseando que alguien lo quisiera de verdad.
 
@@ -122,9 +120,7 @@ Una noche de Halloween, Dyss escuchó ese deseo. La calabaza despertó, pero no 
 
 Los adultos del pueblo están dormidos dentro de calabazas porque el Rey Calabaza los confundió con “amigos que se quedan”. Los niños son los únicos que pueden hablarle de igual a igual, porque los niños todavía saben lo que es desear algo con toda el alma.
 
----
-
-### Estadísticas del jefe (tres fases)
+#### Estadísticas del jefe (tres fases)
 
 | Fase  | Nombre               | Heridas | Defensa | Ataque | Habilidad especial                                                                                                                                                             |
 | ----- | -------------------- | ------- | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -135,7 +131,3 @@ Los adultos del pueblo están dormidos dentro de calabazas porque el Rey Calabaz
 **Debilidad**: Las **semillas de calabaza** recogidas en el Acto Dos. Si un PJ las arroja (Agilidad dificultad 3), el jefe pierde 1 herida automáticamente y no puede usar la habilidad de miedo en la siguiente ronda. Las semillas “recuerdan” lo que el Rey Calabaza era antes.
 
 **Resolución final**: Cuando llega a 0 heridas, la cáscara se rompe y dentro hay una calabaza pequeña temblando. Si los niños la consuelan en lugar de romperla, se convierte en una luz cálida y todos los adultos despiertan. Si la rompen, también ganan, pero la luz es más fría. En ambos casos, la noche termina.
-
----
-
-¿Quieres que ajuste algún trasfondo para que encaje mejor con el tono de tu mesa, o que prepare una versión resumida de las fichas para imprimir directamente?

@@ -1,4 +1,4 @@
-# Módulo de Aventura de Halloween para Magissa: "La Noche en que las Calabazas Serieron"
+# Módulo de Aventura de Halloween para Magissa: "La Noche de las Calabazas rodadoras"
 
 **Conclusión anticipada**: A continuación se presenta un esquema de aventura completo diseñado para **6 jugadores infantiles**, con una duración aproximada de 2-3 horas. Se adjuntan 6 fichas de personajes pregenerados (adecuadas para las reglas de Magissa) y un jefe final con fases "El Rey Calabaza Hueco". Todo el módulo se basa en las reglas centrales de Magissa (tiradas enfrentadas, dados de ventaja, tres características de Fuerza/Agilidad/Mente), con un tono que mantiene el "misterio" propio de Halloween sin resultar aterrador.
 
@@ -9,21 +9,6 @@ La noche de Halloween, los niños del pueblo de Dyss se reúnen alrededor de la 
 Los adultos han desaparecido (esta es la premisa estándar de Magissa: los adultos se desvanecen misteriosamente). Los niños deben recuperar las calabazas y descubrir qué está pasando.
 
 **Gancho de entrada**: Los jugadores están en la plaza del pueblo cuando las calabazas pasan rodando junto a ellos. Una calabaza pequeña se detiene delante de sus pies, con una cara tallada que parece estar llorando.
-
-## II. Seis Fichas de Personajes Pregenerados (6 PJ)
-
-Las fichas de Magissa son muy simples: las características usan **dados** como unidades (por ejemplo, Fuerza 3 significa tirar 3 dados). Los personajes humanos tienen 1 dado extra para distribuir. A continuación se presentan 6 PJs listos para usar, con características totales de aproximadamente 7-8 dados (adecuado para niños de 6-10 años).
-
-| Nombre    | Raza/Ocupación         | Fuerza | Agilidad | Mente | Cuerpo | Encanto | Rasgo especial (para esta aventura)                                                             |
-| --------- | ---------------------- | ------ | -------- | ----- | ------ | ------- | ----------------------------------------------------------------------------------------------- |
-| **Leo**   | Humano/Guerrero        | 3      | 2        | 1     | 3      | 1       | Valiente: +1 dado de ventaja contra miedo/amenazas                                              |
-| **Mía**   | Elfa/Exploradora       | 1      | 4        | 2     | 2      | 1       | Vista nocturna: no penaliza en oscuridad                                                        |
-| **Tom**   | Humano/Sanador         | 1      | 2        | 3     | 2      | 2       | Bendición: 1 vez por escena, un aliado repite una tirada                                        |
-| **Luna**  | Fauno/Mago             | 1      | 2        | 4     | 1      | 2       | Chispa mágica: puede lanzar "luz" a voluntad (ilumina 1 escena)                                 |
-| **Basti** | Híbrido de gato/Ladrón | 2      | 4        | 1     | 1      | 2       | Ágil: +1 dado de ventaja al huir/esconderse                                                     |
-| **Nina**  | Humana/Bardo           | 1      | 2        | 2     | 1      | 4       | Canción de ánimo: 1 vez por escena, todos los aliados +1 dado de ventaja en la siguiente tirada |
-
-> **Uso de las fichas**: Imprime y reparte. Los niños solo necesitan saber "tirar tantos dados como el valor de la característica, comparar el número más alto". La habilidad especial simplemente "se puede usar una vez", sin necesidad de llevar registro.
 
 ## III. Estructura de la Aventura (Tres Actos)
 
@@ -79,11 +64,19 @@ Los adultos del pueblo están atrapados dentro de grandes calabazas huecas, dorm
 
 Este jefe está diseñado con el concepto de **"tres fases"**, pero adaptado a las reglas de Magissa, usando **"valor de heridas"** para impulsar el cambio de fase. Los jefes normales de Magissa tienen 3-4 heridas; este jefe tiene **6 heridas**, divididas en tres etapas.
 
-| Fase       | Nombre               | Condición de activación | Características y comportamiento                                                                                                                                                                                                                                     |
-| ---------- | -------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Fase 1** | **La Máscara**       | Heridas 6-5             | Defensa 3, Ataque 3. Cada ronda ataca a un PJ (tirada enfrentada). Descripción: "La calabaza sonríe exageradamente, pero sus ojos están vacíos."                                                                                                                     |
-| **Fase 2** | **La Verdad**        | Heridas 4-3             | Defensa 4, Ataque 4. **Nueva habilidad**: Al inicio de cada ronda, todos los PJ deben superar **Mente dificultad 3**, o pierden 1 dado en su próxima acción (miedo). Descripción: "La cáscara se agrieta, y en el interior no hay pulpa, solo oscuridad y susurros." |
-| **Fase 3** | **La Desesperación** | Heridas 2-1             | Defensa 4, Ataque 5 (pero después del ataque, el Rey Calabaza también recibe 1 herida—se está consumiendo a sí mismo). Descripción: "¡El Rey Calabaza ya no ríe! Arroja fuego naranja por la boca, gritando: '¡No se vayan!'"                                        |
+#### Fases
+
+##### Fase 1 - la máscara (5-6 heridas)
+
+Defensa 3, Ataque 3. Cada ronda ataca a un PJ (tirada enfrentada). Descripción: "La calabaza sonríe exageradamente, pero sus ojos están vacíos."
+
+##### Fase 2 - La Verdad (3-4 heridas)
+
+Defensa 4, Ataque 4. **Nueva habilidad**: Al inicio de cada ronda, todos los PJ deben superar **Mente dificultad 3**, o pierden 1 dado en su próxima acción (miedo). Descripción: "La cáscara se agrieta, y en el interior no hay pulpa, solo oscuridad y susurros."
+
+##### Fase 3 - La desesperación (1-2 heridas)
+
+Defensa 4, Ataque 5 (pero después del ataque, el Rey Calabaza también recibe 1 herida—se está consumiendo a sí mismo). Descripción: "¡El Rey Calabaza ya no ríe! Arroja fuego naranja por la boca, gritando: '¡No se vayan!'"
 
 **Cómo los jugadores "debilitan" al jefe**:
 
@@ -103,5 +96,3 @@ Este jefe está diseñado con el concepto de **"tres fases"**, pero adaptado a l
 > **Referencia de reglas**: El sistema central de Magissa es "tirar dados de características, comparar el número más alto, 1 no cuenta". Las seis fichas anteriores siguen este principio. Las estadísticas del jefe (Defensa/Ataque/Heridas) también están simplificadas según las pautas de las aventuras oficiales de Magissa.
 
 ¿Necesitas que ajuste alguna ficha de personaje, o que convierta las estadísticas del jefe en un "diagrama de flujo" más simple para que los niños lo entiendan de un vistazo?
-
-

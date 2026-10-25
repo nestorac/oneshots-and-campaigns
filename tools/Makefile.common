@@ -13,8 +13,8 @@ METADATA        := $(TOOLS)/metadata/metadata.yaml
 AVENTURA_META   := $(TOOLS)/metadata/metadata_aventura.yaml
 FILTER          := $(TOOLS)/filters/aventura.lua
 
-MD              := pj.md
-AVENTURA_MD     := oneshot.md
+#MD              := pj.md
+#AVENTURA_MD     := oneshot.md
 OUT_DIR         := out
 PJ_PDF          := $(OUT_DIR)/pj.pdf
 AVENTURA_PDF    := $(OUT_DIR)/aventura.pdf
