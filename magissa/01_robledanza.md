@@ -22,7 +22,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Lira, elfa exploradora de Robledanza
 
-<img title="" src="pj/lira_hojacanto.jpg" alt="" width="188" data-align="center">
+<img title="" src="img/lira_hojacanto.jpg" alt="" width="188" data-align="center">
 
 *Lira Hojacanto* es una *elfa exploradora*. Su arco de sauce y su oído de bosque la convierten en la mirada del grupo.
 
@@ -42,7 +42,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Brum, enano guerrero
 
-<img title="" src="pj/brum_piedralegre.jpg" alt="" width="208" data-align="center">
+<img title="" src="img/brum_piedralegre.jpg" alt="" width="208" data-align="center">
 
 *Brum Piedralegre* es un *guerrero enano*. Su escudo runado y su paso firme hacen de él el ancla del grupo cuando el claro se oscurece.
 
@@ -62,7 +62,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Nilo, humano mago
 
-<img title="" src="pj/nilo_cuadernoluz.jpg" alt="" width="233" data-align="center">
+<img title="" src="img/nilo_cuadernoluz.jpg" alt="" width="233" data-align="center">
 
 *Nilo Cuadernoluz* es un *mago humano*. Su cuaderno de hojas prensadas guarda preguntas, dibujos y el primer hechizo que aprendió junto al pozo.
 
@@ -84,7 +84,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Mishi, chica gato pícara
 
-<img title="" src="pj/mishi_zarparrapida.jpg" alt="" width="215" data-align="center">*Mishi Zarparrápida* es una *chica gato pícara*. Trepa primero, escucha después y encuentra lo que el claro esconde entre raíces.
+<img title="" src="img/mishi_zarparrapida.jpg" alt="" width="215" data-align="center">*Mishi Zarparrápida* es una *chica gato pícara*. Trepa primero, escucha después y encuentra lo que el claro esconde entre raíces.
 
 **Apariencia:** orejas de gato crema y jengibre, cola rayada que delata su humor, mirada viva y una capucha que casi nunca está del todo puesta.
 
@@ -102,7 +102,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Canto, fauno sanador
 
-<img title="" src="pj/canto_pradovivo.jpg" alt="" width="202" data-align="center">
+<img title="" src="img/canto_pradovivo.jpg" alt="" width="202" data-align="center">
 
 *Canto Pradovivo* es un *fauno sanador*. Su flauta de caña calma heridas, miedos y hasta alguna fuente obstinada.
 
@@ -124,7 +124,7 @@ El grupo suma siete dados de características en total por persona, con oficios 
 
 ## Estrella, poni de unicornio
 
-<img title="" src="pj/estrella_rocioprimer.jpg" alt="" width="154" data-align="center">
+<img title="" src="img/estrella_rocioprimer.jpg" alt="" width="154" data-align="center">
 
 *Estrella Rocío* es una *maga unicornio*. Su cuerno recoge la luz de Alba y la convierte en guía para las tres fuentes.
 
