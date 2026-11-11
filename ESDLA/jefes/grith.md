@@ -6,7 +6,6 @@
 \includegraphics[width=0.33\textwidth]{img/grith.jpg}
 \end{wrapfigure}
 ```
-
 Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros
 anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un
 manto negro remendado y un broche en forma de ojo cerrado, la marca que
@@ -87,6 +86,7 @@ perseguirlo con Atletismo o Cazar.
 \includegraphics[width=0.33\textwidth]{img/gulhund.jpg}
 \end{wrapfigure}
 ```
+Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -112,6 +112,7 @@ atacar al mismo blanco que su amo.
 \includegraphics[width=0.33\textwidth]{img/moraig.jpg}
 \end{wrapfigure}
 ```
+Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -134,6 +135,7 @@ contra quien lo abatió y deja de aceptar tregua.
 \includegraphics[width=0.33\textwidth]{img/salteadores.jpg}
 \end{wrapfigure}
 ```
+Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
