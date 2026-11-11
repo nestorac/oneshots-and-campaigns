@@ -3,3 +3,24 @@ include ../../tools/Makefile.common
 
 MD          := pj.md
 AVENTURA_MD := oneshot.md
+COMBAT_MD   := pj_combat.md
+COMBAT_PDF  := $(OUT_DIR)/pj_combat.pdf
+
+.PHONY: combat clean-combat
+
+combat: engine $(COMBAT_PDF)
+
+$(COMBAT_PDF): $(COMBAT_MD) $(METADATA) | $(OUT_DIR)
+	$(PANDOC) "$(COMBAT_MD)" -o "$(COMBAT_PDF)" \
+	  --from=markdown+smart \
+	  --standalone \
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --metadata-file=$(METADATA) \
+	  --resource-path=.:img:pj/ \
+	  $(ENGINE_FONT)
+
+# Extiende clean para que también elimine el PDF de combate
+clean: clean-combat
+
+clean-combat:
+	rm -f "$(COMBAT_PDF)"
