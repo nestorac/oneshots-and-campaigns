@@ -1,11 +1,9 @@
 # Grith Cabezacuervo
 
 ```{=latex}
-\begin{wrapfigure}[14]{r}{0.35\textwidth}
-\centering
-\includegraphics[width=0.33\textwidth]{img/grith.jpg}
-\end{wrapfigure}
+\begin{minipage}[t]{0.62\textwidth}
 ```
+
 Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros
 anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un
 manto negro remendado y un broche en forma de ojo cerrado, la marca que
@@ -20,6 +18,15 @@ hombres en el Chetwood y un huargo cojea a su lado. Está cansado,
 orgulloso y dispuesto a negociar si le dejan llevarse la piedra. Matarlo
 a sangre fría, si pide tregua, puede ser una Mala Acción y sumar Sombra
 a la compañía.
+
+```{=latex}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\includegraphics[width=\linewidth]{img/grith.jpg}
+\end{minipage}
+\vspace{0.5em}
+```
 
 ### Qué quiere
 
@@ -81,73 +88,80 @@ perseguirlo con Atletismo o Cazar.
 ### Gulhund, huargo herido
 
 ```{=latex}
-\begin{wrapfigure}[12]{l}{0.35\textwidth}
-\centering
-\includegraphics[width=0.33\textwidth]{img/gulhund.jpg}
-\end{wrapfigure}
+\begin{minipage}[t]{0.62\textwidth}
 ```
-Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha. Parte de 14 de Aguante en lugar de 18 por la herida del costado.
+
+Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha. Parte de 14 de Aguante en lugar de 18 por la herida del costado. Cojea. Odia el fuego y retrocede un paso si alguien le acerca una antorcha (prueba de Imponer o Cazar, NO 15).
+
+Mandíbula: competencia 3, daño 6, filo 14. Daños especiales: Perforar, Derribo (si sale un 6, el blanco queda derribado y pierde el siguiente ataque).
+
+Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al atacar al mismo blanco que su amo.
+
+```{=latex}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\includegraphics[width=\linewidth]{img/gulhund.jpg}
+\end{minipage}
+\vspace{0.5em}
+```
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **5** | **Potencia** | **1** | **Aguante**  | **14** |
 | **Odio**              | 4     | **Parada**   | +2    | **Armadura** | 2d6    |
 
-Aguante ya reducido: parte de 14 en lugar de 18 por la herida del
-costado. Cojea. Odia el fuego y retrocede un paso si alguien le acerca
-una antorcha (prueba de Imponer o Cazar, NO 15).
-
-Mandíbula: competencia 3, daño 6, filo 14. Daños especiales: Perforar,
-Derribo (si sale un 6, el blanco queda derribado y pierde el siguiente
-ataque).
-
-Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al
-atacar al mismo blanco que su amo.
-
 ### Moraig, hermana y teniente
 
 ```{=latex}
-\begin{wrapfigure}[12]{r}{0.35\textwidth}
-\centering
-\includegraphics[width=0.33\textwidth]{img/moraig.jpg}
-\end{wrapfigure}
+\begin{minipage}[t]{0.62\textwidth}
 ```
-Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito.
+
+Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito. Si Grith muere delante de ella, carga contra quien lo abatió y deja de aceptar tregua.
+
+Arco corto: competencia 3, daño 4, filo 14. Daño especial: Perforar.
+
+Cuchillo: competencia 2, daño 3, filo 14.
+
+```{=latex}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\includegraphics[width=\linewidth]{img/moraig.jpg}
+\end{minipage}
+\vspace{0.5em}
+```
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **4** | **Potencia** | **1** | **Aguante**  | **16** |
 | **Resolución**        | 3     | **Parada**   | +2    | **Armadura** | 2d6    |
 
-Arco corto: competencia 3, daño 4, filo 14. Daño especial: Perforar.
-
-Cuchillo: competencia 2, daño 3, filo 14.
-
-Ojo de hermana. Si Grith cae herido, Moraig gasta 1 Resolución y su
-siguiente ataque es favorito. Si Grith muere delante de ella, carga
-contra quien lo abatió y deja de aceptar tregua.
-
 ### Tres salteadores dunlendinos
 
 ```{=latex}
-\begin{wrapfigure}[12]{l}{0.35\textwidth}
-\centering
-\includegraphics[width=0.33\textwidth]{img/salteadores.jpg}
-\end{wrapfigure}
+\begin{minipage}[t]{0.62\textwidth}
 ```
-Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución. Cierran en el claro al inicio del combate.
 
-|                       |       |              |       |              |        |
-| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
-| **Nivel de atributo** | **3** | **Potencia** | **1** | **Aguante**  | **10** |
-| **Resolución**        | 2     | **Parada**   | +1    | **Armadura** | 1d6    |
+Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución. Cierran en el claro al inicio del combate. Si Grith cae o huye, hacen una prueba colectiva: con 1 Resolución o menos en el grupo, tiran las armas y piden cuarto.
 
 Lanza: competencia 2, daño 4, filo 14.
 
 Hacha de mano: competencia 2, daño 5, filo 16.
 
-Si Grith cae o huye, hacen una prueba colectiva: con 1 Resolución o
-menos en el grupo, tiran las armas y piden cuarto.
+```{=latex}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.35\textwidth}
+\centering
+\includegraphics[width=\linewidth]{img/salteadores.jpg}
+\end{minipage}
+\vspace{0.5em}
+```
+
+|                       |       |              |       |              |        |
+| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
+| **Nivel de atributo** | **3** | **Potencia** | **1** | **Aguante**  | **10** |
+| **Resolución**        | 2     | **Parada**   | +1    | **Armadura** | 1d6    |
 
 ## Cómo dirigir el combate final
 

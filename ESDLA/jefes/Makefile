@@ -22,7 +22,7 @@ $(GRITH_PDF): $(GRITH_MD) $(METADATA) | $(OUT_DIR)
 	  --metadata-file=$(METADATA) \
 	  --resource-path=.:img/ \
 	  -V mainfont="DejaVu Sans" \
-	  -V header-includes="\\usepackage{graphicx}\\usepackage{wrapfig}\\setlength{\\intextsep}{0pt}\\setlength{\\columnsep}{8pt}"
+	  -V header-includes="\\usepackage{graphicx}"
 
 # Sobrescribe clean para que solo elimine el PDF de este directorio
 clean:
