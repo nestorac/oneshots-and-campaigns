@@ -113,11 +113,27 @@ blando: Protección 1d6. Carga de equipo 9.
 
 ### Inventario
 
-Honda y saquito de doce cantos, daga corta en la bota, rodela, túnica de
-cuero, capa de lana parda, linterna de cuerno y aceite para dos horas,
-llaves de la trastienda de La Jarra de Cebada, libreta de deudas ajenas,
-aguja e hilo, venda limpia, seis monedas de plata y un anillo de cobre
-de su madre.
+* Honda y saquito de doce cantos
+
+* Daga corta en la bota
+
+* Rodela, túnica de cuero
+
+* Capa de lana parda
+
+* Linterna de cuerno y aceite para dos horas
+
+* Llaves de la trastienda de La Jarra de Cebada
+
+* Libreta de deudas ajenas
+
+* Aguja e hilo
+
+* Venda limpia
+
+* Seis monedas de plata
+
+* Un anillo de cobre de su madre
 
 ### Notas de juego
 
