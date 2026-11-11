@@ -1,7 +1,7 @@
 # Grith Cabezacuervo
 
 ```{=latex}
-\begin{wrapfigure}{r}{0.35\textwidth}
+\begin{wrapfigure}[14]{r}{0.35\textwidth}
 \centering
 \includegraphics[width=0.33\textwidth]{img/grith.jpg}
 \end{wrapfigure}
@@ -81,12 +81,12 @@ perseguirlo con Atletismo o Cazar.
 ### Gulhund, huargo herido
 
 ```{=latex}
-\begin{wrapfigure}{l}{0.35\textwidth}
+\begin{wrapfigure}[12]{l}{0.35\textwidth}
 \centering
 \includegraphics[width=0.33\textwidth]{img/gulhund.jpg}
 \end{wrapfigure}
 ```
-Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha.
+Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha. Parte de 14 de Aguante en lugar de 18 por la herida del costado.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -107,12 +107,12 @@ atacar al mismo blanco que su amo.
 ### Moraig, hermana y teniente
 
 ```{=latex}
-\begin{wrapfigure}{r}{0.35\textwidth}
+\begin{wrapfigure}[12]{r}{0.35\textwidth}
 \centering
 \includegraphics[width=0.33\textwidth]{img/moraig.jpg}
 \end{wrapfigure}
 ```
-Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro.
+Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -130,12 +130,12 @@ contra quien lo abatió y deja de aceptar tregua.
 ### Tres salteadores dunlendinos
 
 ```{=latex}
-\begin{wrapfigure}{l}{0.35\textwidth}
+\begin{wrapfigure}[12]{l}{0.35\textwidth}
 \centering
 \includegraphics[width=0.33\textwidth]{img/salteadores.jpg}
 \end{wrapfigure}
 ```
-Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución.
+Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución. Cierran en el claro al inicio del combate.
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
