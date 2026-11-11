@@ -20,9 +20,10 @@ $(GRITH_PDF): $(GRITH_MD) $(METADATA) | $(OUT_DIR)
 	  --standalone \
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --metadata-file=$(METADATA) \
+	  --lua-filter=$(TOOLS_DIR)/filters/sideimage.lua \
 	  --resource-path=.:img/ \
 	  -V mainfont="DejaVu Sans" \
-	  -V header-includes="\\usepackage{graphicx}"
+	  -V header-includes="\\usepackage{graphicx}\\usepackage{wrapfig}\\setlength{\\intextsep}{2pt}\\setlength{\\columnsep}{10pt}"
 
 # Sobrescribe clean para que solo elimine el PDF de este directorio
 clean:
