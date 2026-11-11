@@ -19,7 +19,7 @@ $(COMBAT_PDF): $(COMBAT_MD) $(METADATA) $(COMBAT_FILTER) | $(OUT_DIR)
 	  --metadata-file=$(METADATA) \
 	  --lua-filter=$(COMBAT_FILTER) \
 	  --resource-path=.:img:pj/ \
-	  $(ENGINE_FONT)
+	  -V mainfont="DejaVu Sans"
 
 # Extiende clean para que también elimine el PDF de combate
 clean: clean-combat
