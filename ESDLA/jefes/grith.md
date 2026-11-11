@@ -22,9 +22,8 @@ Que un mensajero élfico pasó al oeste hace un mes. Que Butterbur de Bree habla
 
 ### Bloque de Grith Cabezacuervo
 
-|                       |       |                        |       |              |        |
-| --------------------- | ----- | ---------------------- | ----- | ------------ | ------ |
 | **Nivel de atributo** | **6** | **Potencia**           | **2** | **Aguante**  | **32** |
+| --------------------- | ----- | ---------------------- | ----- | ------------ | ------ |
 | **Resolución**        | 6     | **Parada**             | +3    | **Armadura** | 3d6    |
 | **Heridas para caer** | 2     | **Ataques por asalto** | 2     | **Tipo**     | Hombre |
 
@@ -52,9 +51,8 @@ Mandíbula: competencia 3, daño 6, filo 14. Daños especiales: Perforar, Derrib
 
 Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al atacar al mismo blanco que su amo.
 
-|                       |       |              |       |              |        |
-| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **5** | **Potencia** | **1** | **Aguante**  | **14** |
+| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Odio**              | 4     | **Parada**   | +2    | **Armadura** | 2d6    |
 
 ### Moraig, hermana y teniente
@@ -65,9 +63,8 @@ Arco corto: competencia 3, daño 4, filo 14. Daño especial: Perforar.
 
 Cuchillo: competencia 2, daño 3, filo 14.
 
-|                       |       |              |       |              |        |
-| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **4** | **Potencia** | **1** | **Aguante**  | **16** |
+| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Resolución**        | 3     | **Parada**   | +2    | **Armadura** | 2d6    |
 
 ### Tres salteadores dunlendinos
@@ -78,9 +75,8 @@ Lanza: competencia 2, daño 4, filo 14.
 
 Hacha de mano: competencia 2, daño 5, filo 16.
 
-|                       |       |              |       |              |        |
-| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **3** | **Potencia** | **1** | **Aguante**  | **10** |
+| --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Resolución**        | 2     | **Parada**   | +1    | **Armadura** | 1d6    |
 
 ## Cómo dirigir el combate final
@@ -120,5 +116,3 @@ Nár: frente contra Grith o el huargo.
 Faelwen: la piedra, Saber y arco de apoyo.
 
 Osric: terreno, fuego contra el huargo y protección de su prima.
-
-*Si vuestra mesa usa Dungeons & Dragons 5.ª edición o El Señor de los Anillos Roleplaying de Free League, se puede preparar una conversión nivel 2 con los mismos nombres y el mismo jefe. Basta con decirlo para reescribir los números en ese reglamento.*
