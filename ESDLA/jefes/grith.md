@@ -1,6 +1,11 @@
 # Grith Cabezacuervo
 
-![](img/grith.jpg)
+```{=latex}
+\begin{wrapfigure}{r}{0.35\textwidth}
+\centering
+\includegraphics[width=0.33\textwidth]{img/grith.jpg}
+\end{wrapfigure}
+```
 
 Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros
 anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un
@@ -76,7 +81,12 @@ perseguirlo con Atletismo o Cazar.
 
 ### Gulhund, huargo herido
 
-![](img/gulhund.jpg)
+```{=latex}
+\begin{wrapfigure}{l}{0.35\textwidth}
+\centering
+\includegraphics[width=0.33\textwidth]{img/gulhund.jpg}
+\end{wrapfigure}
+```
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -96,7 +106,12 @@ atacar al mismo blanco que su amo.
 
 ### Moraig, hermana y teniente
 
-![](img/moraig.jpg)
+```{=latex}
+\begin{wrapfigure}{r}{0.35\textwidth}
+\centering
+\includegraphics[width=0.33\textwidth]{img/moraig.jpg}
+\end{wrapfigure}
+```
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -113,7 +128,12 @@ contra quien lo abatió y deja de aceptar tregua.
 
 ### Tres salteadores dunlendinos
 
-![](img/salteadores.jpg)
+```{=latex}
+\begin{wrapfigure}{l}{0.35\textwidth}
+\centering
+\includegraphics[width=0.33\textwidth]{img/salteadores.jpg}
+\end{wrapfigure}
+```
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |

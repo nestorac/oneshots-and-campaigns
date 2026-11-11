@@ -21,7 +21,8 @@ $(GRITH_PDF): $(GRITH_MD) $(METADATA) | $(OUT_DIR)
 	  --pdf-engine=$(PDF_ENGINE) \
 	  --metadata-file=$(METADATA) \
 	  --resource-path=.:img/ \
-	  -V mainfont="DejaVu Sans"
+	  -V mainfont="DejaVu Sans" \
+	  -V header-includes="\\usepackage{wrapfig}"
 
 # Sobrescribe clean para que solo elimine el PDF de este directorio
 clean:
