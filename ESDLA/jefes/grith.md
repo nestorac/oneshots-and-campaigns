@@ -1,3 +1,7 @@
+# Mapa del terreno de la batalla contra Grith
+
+![](img/mapa-grith.jpg)
+
 # Grith Cabezacuervo
 
 <img title="" src="img/grith.jpg" alt="Grith" data-align="left" width="187" />Grith es un dunlendino de unos cuarenta años, alto y de hombros anchos, con el rostro curtido por el viento de las colinas y una trenza oscura sujeta por un alambre de cobre. Lleva un manto negro remendado que ha conocido mejores días y un broche en forma de ojo cerrado sobre el pecho: la misma marca que Elira vio en el encapuchado de Archet. Habla oestron con acento áspero; cuando se enfada, el dunlendino le asoma entre los dientes como un gruñido.
