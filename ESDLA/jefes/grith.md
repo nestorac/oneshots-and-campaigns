@@ -4,7 +4,9 @@
 
 # Grith Cabezacuervo
 
-<img title="" src="img/grith.jpg" alt="Grith" data-align="left" width="187" />Grith es un dunlendino de unos cuarenta años, alto y de hombros anchos, con el rostro curtido por el viento de las colinas y una trenza oscura sujeta por un alambre de cobre. Lleva un manto negro remendado que ha conocido mejores días y un broche en forma de ojo cerrado sobre el pecho: la misma marca que Elira vio en el encapuchado de Archet. Habla oestron con acento áspero; cuando se enfada, el dunlendino le asoma entre los dientes como un gruñido.
+![Grith](img/grith.jpg){.side-r}
+
+Grith es un dunlendino de unos cuarenta años, alto y de hombros anchos, con el rostro curtido por el viento de las colinas y una trenza oscura sujeta por un alambre de cobre. Lleva un manto negro remendado que ha conocido mejores días y un broche en forma de ojo cerrado sobre el pecho: la misma marca que Elira vio en el encapuchado de Archet. Habla oestron con acento áspero; cuando se enfada, el dunlendino le asoma entre los dientes como un gruñido.
 
 Sirve a Saruman el Blanco, aunque nunca nombra Orthanc. Cree que la piedra rúnica es una llave de escucha: quien la sostenga junto a ciertas ruinas oirá órdenes a leguas de distancia. El Blanco la quiere antes de que la reclame el Otro —los ojos de Mordor—. Grith ha perdido ya dos hombres en el Chetwood y un huargo cojea a su lado. Está cansado y orgulloso, pero dispuesto a negociar si le dejan llevarse la piedra. Matarlo a sangre fría cuando pide tregua puede contar como una Mala Acción y sumar Sombra a la compañía.
 
@@ -49,7 +51,9 @@ Huida del cuervo. Si baja de 10 Aguante o pierde una herida, gasta 1 Resolución
 
 ### Gulhund, huargo herido
 
-<img title="" src="img/gulhund.jpg" alt="Gulhund" width="313" data-align="right" />Gulhund es el huargo de Grith, herido en el costado y cojo. Odia el fuego: si alguien le acerca una antorcha, retrocede un paso (prueba de Imponer o Cazar, NO 15). Su Aguante parte de 14 en lugar de 18 por la herida.
+![Gulhund](img/gulhund.jpg){.side-l}
+
+Gulhund es el huargo de Grith, herido en el costado y cojo. Odia el fuego: si alguien le acerca una antorcha, retrocede un paso (prueba de Imponer o Cazar, NO 15). Su Aguante parte de 14 en lugar de 18 por la herida.
 
 Mandíbula: competencia 3, daño 6, filo 14. Daños especiales: Perforar, Derribo (si sale un 6, el blanco queda derribado y pierde el siguiente ataque).
 
@@ -61,7 +65,9 @@ Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al atacar 
 
 ### Moraig, hermana y teniente
 
-<img title="" src="img/moraig.jpg" alt="Moraig" width="203" data-align="center" />Moraig es hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito. Si Grith muere delante de ella, carga contra quien lo abatió y deja de aceptar tregua.
+![Moraig](img/moraig.jpg){.side-r}
+
+Moraig es hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito. Si Grith muere delante de ella, carga contra quien lo abatió y deja de aceptar tregua.
 
 Arco corto: competencia 3, daño 4, filo 14. Daño especial: Perforar.
 
@@ -73,7 +79,7 @@ Cuchillo: competencia 2, daño 3, filo 14.
 
 ### Tres salteadores dunlendinos
 
-<img title="" src="img/salteadores.jpg" alt="Salteadores" width="318" data-align="left" />
+![Salteadores](img/salteadores.jpg){.side-l}
 
 Tres hombres de Dunland armados con lanzas y hachas de mano. Cierran en el claro al inicio del combate. Si Grith cae o huye, hacen una prueba colectiva: con 1 Resolución o menos en el grupo, tiran las armas y piden cuarto.
 
