@@ -2,16 +2,18 @@
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.62\textwidth}
+\begin{minipage}[t]{0.60\textwidth}
+\raggedright
 Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un manto negro remendado y un broche en forma de ojo cerrado, la marca que Elira vio en el encapuchado. Habla oestron con acento áspero y dunlendino entre dientes cuando se enfada.
 
 Sirve a Saruman el Blanco sin nombrar a Orthanc. Cree que la piedra rúnica es una llave de escucha: quien la sostenga junto a ciertas ruinas oirá órdenes a leguas de distancia. El Blanco la quiere antes de que la reclame el Otro, es decir, los ojos de Mordor. Grith ha perdido ya dos hombres en el Chetwood y un huargo cojea a su lado. Está cansado, orgulloso y dispuesto a negociar si le dejan llevarse la piedra. Matarlo a sangre fría, si pide tregua, puede ser una Mala Acción y sumar Sombra a la compañía.
-\end{minipage}\hfill
-\begin{minipage}[t]{0.34\textwidth}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.36\textwidth}
 \centering
-\includegraphics[width=\linewidth]{img/grith.jpg}
+\includegraphics[width=0.95\linewidth]{img/grith.jpg}
 \end{minipage}
-\vspace{0.6em}
+\par\vspace{0.4em}
 ```
 
 ### Qué quiere
@@ -58,18 +60,20 @@ Huida del cuervo. Si baja de 10 Aguante o pierde una herida, gasta 1 Resolución
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.34\textwidth}
+\begin{minipage}[t]{0.36\textwidth}
 \centering
-\includegraphics[width=\linewidth]{img/gulhund.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.62\textwidth}
+\includegraphics[width=0.95\linewidth]{img/gulhund.jpg}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\raggedright
 Huargo herido que cojea al lado de Grith. Odia el fuego y retrocede si le acercan una antorcha. Parte de 14 de Aguante en lugar de 18 por la herida del costado. Cojea. Odia el fuego y retrocede un paso si alguien le acerca una antorcha (prueba de Imponer o Cazar, NO 15).
 
 Mandíbula: competencia 3, daño 6, filo 14. Daños especiales: Perforar, Derribo (si sale un 6, el blanco queda derribado y pierde el siguiente ataque).
 
 Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al atacar al mismo blanco que su amo.
 \end{minipage}
-\vspace{0.6em}
+\par\vspace{0.4em}
 ```
 
 |                       |       |              |       |              |        |
@@ -81,18 +85,20 @@ Cazador de la jauría. Mientras Grith sigue en pie, Gulhund tira +1d6 al atacar 
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.62\textwidth}
+\begin{minipage}[t]{0.60\textwidth}
+\raggedright
 Hermana y teniente de Grith. Arquera hábil que cubre a su hermano desde el muro. Si Grith cae herido, su siguiente ataque es favorito. Si Grith muere delante de ella, carga contra quien lo abatió y deja de aceptar tregua.
 
 Arco corto: competencia 3, daño 4, filo 14. Daño especial: Perforar.
 
 Cuchillo: competencia 2, daño 3, filo 14.
-\end{minipage}\hfill
-\begin{minipage}[t]{0.34\textwidth}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.36\textwidth}
 \centering
-\includegraphics[width=\linewidth]{img/moraig.jpg}
+\includegraphics[width=0.95\linewidth]{img/moraig.jpg}
 \end{minipage}
-\vspace{0.6em}
+\par\vspace{0.4em}
 ```
 
 |                       |       |              |       |              |        |
@@ -104,18 +110,20 @@ Cuchillo: competencia 2, daño 3, filo 14.
 
 ```{=latex}
 \noindent
-\begin{minipage}[t]{0.34\textwidth}
+\begin{minipage}[t]{0.36\textwidth}
 \centering
-\includegraphics[width=\linewidth]{img/salteadores.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.62\textwidth}
+\includegraphics[width=0.95\linewidth]{img/salteadores.jpg}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.60\textwidth}
+\raggedright
 Tres hombres de Dunland armados con lanzas y hachas de mano. Se rinden si Grith huye y les queda poca Resolución. Cierran en el claro al inicio del combate. Si Grith cae o huye, hacen una prueba colectiva: con 1 Resolución o menos en el grupo, tiran las armas y piden cuarto.
 
 Lanza: competencia 2, daño 4, filo 14.
 
 Hacha de mano: competencia 2, daño 5, filo 16.
 \end{minipage}
-\vspace{0.6em}
+\par\vspace{0.4em}
 ```
 
 |                       |       |              |       |              |        |
