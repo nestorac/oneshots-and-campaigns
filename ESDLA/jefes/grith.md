@@ -4,9 +4,9 @@
 \noindent
 \begin{minipage}[t]{0.60\textwidth}
 \raggedright
-Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un manto negro remendado y un broche en forma de ojo cerrado, la marca que Elira vio en el encapuchado. Habla oestron con acento áspero y dunlendino entre dientes cuando se enfada.
+Grith es un dunlendino de unos cuarenta años, alto y de hombros anchos, con el rostro curtido por el viento de las colinas y una trenza oscura sujeta por un alambre de cobre. Lleva un manto negro remendado que ha conocido mejor día y un broche en forma de ojo cerrado sobre el pecho: la misma marca que Elira vio en el encapuchado de Archet. Habla oestron con acento áspero; cuando se enfada, el dunlendino le asoma entre los dientes como un gruñido.
 
-Sirve a Saruman el Blanco sin nombrar a Orthanc. Cree que la piedra rúnica es una llave de escucha: quien la sostenga junto a ciertas ruinas oirá órdenes a leguas de distancia. El Blanco la quiere antes de que la reclame el Otro, es decir, los ojos de Mordor. Grith ha perdido ya dos hombres en el Chetwood y un huargo cojea a su lado. Está cansado, orgulloso y dispuesto a negociar si le dejan llevarse la piedra. Matarlo a sangre fría, si pide tregua, puede ser una Mala Acción y sumar Sombra a la compañía.
+Sirve a Saruman el Blanco, aunque nunca nombra Orthanc. Cree que la piedra rúnica es una llave de escucha: quien la sostenga junto a ciertas ruinas oirá órdenes a leguas de distancia. El Blanco la quiere antes de que la reclame el Otro —los ojos de Mordor—. Grith ha perdido ya dos hombres en el Chetwood y un huargo cojea a su lado. Está cansado, orgulloso y dispuesto a negociar si le dejan llevarse la piedra. Matarlo a sangre fría cuando pide tregua puede ser una Mala Acción y sumar Sombra a la compañía.
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.36\textwidth}
