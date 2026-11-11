@@ -4,7 +4,13 @@ include ../../tools/Makefile.common
 GRITH_MD   := grith.md
 GRITH_PDF  := $(OUT_DIR)/grith.pdf
 
-.PHONY: grith clean
+# Objetivo por defecto: solo grith
+.DEFAULT_GOAL := grith
+
+.PHONY: grith clean all
+
+# Evita que all intente generar pj y aventura
+all: grith
 
 grith: engine $(GRITH_PDF)
 
