@@ -1,5 +1,7 @@
 # Grith Cabezacuervo
 
+![](img/grith.jpg)
+
 Grith es un hombre de Dunland de unos cuarenta años, alto, de hombros
 anchos, con una trenza oscura ceñida por un alambre de cobre. Lleva un
 manto negro remendado y un broche en forma de ojo cerrado, la marca que
@@ -74,6 +76,8 @@ perseguirlo con Atletismo o Cazar.
 
 ### Gulhund, huargo herido
 
+![](img/gulhund.jpg)
+
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **5** | **Potencia** | **1** | **Aguante**  | **14** |
@@ -92,6 +96,8 @@ atacar al mismo blanco que su amo.
 
 ### Moraig, hermana y teniente
 
+![](img/moraig.jpg)
+
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
 | **Nivel de atributo** | **4** | **Potencia** | **1** | **Aguante**  | **16** |
@@ -106,6 +112,8 @@ siguiente ataque es favorito. Si Grith muere delante de ella, carga
 contra quien lo abatió y deja de aceptar tregua.
 
 ### Tres salteadores dunlendinos
+
+![](img/salteadores.jpg)
 
 |                       |       |              |       |              |        |
 | --------------------- | ----- | ------------ | ----- | ------------ | ------ |
@@ -160,7 +168,7 @@ Faelwen sienta frío. Hay también un cuerno de Isengard sin usar.
 
 Si la compañía se queda la piedra: permanece tibia. Cada jornada, el
 portador tira Corazón NO 14 al despertar. Un fallo suma 1 Sombra y le
-deja el sueño lleno de una voz cortés. Llevarla a Imladris o a un
+deja el sueño lleno de una voz cortesía. Llevarla a Imladris o a un
 montaraz de confianza es un gancho limpio para otra sesión.
 
 Si Grith huye con ella: Archet se salva esta noche y el Camino del Este
