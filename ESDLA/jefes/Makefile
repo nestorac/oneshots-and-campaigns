@@ -15,11 +15,18 @@ all: grith
 
 grith: $(GRITH_PDF)
 
+$(OUT_DIR):
+	mkdir -p $(OUT_DIR)
+
 $(GRITH_HTML): $(GRITH_MD) $(GRITH_CSS) | $(OUT_DIR)
+	cp "$(GRITH_CSS)" "$(OUT_DIR)/"
+	# Copia o enlace de imágenes para que WeasyPrint las encuentre
+	mkdir -p "$(OUT_DIR)/img"
+	cp -a img/. "$(OUT_DIR)/img/" 2>/dev/null || true
 	pandoc "$(GRITH_MD)" -o "$(GRITH_HTML)" \
 	  --from=markdown+smart \
 	  --standalone \
-	  --css=$(GRITH_CSS) \
+	  --css=grith.css \
 	  --resource-path=.:img/
 
 $(GRITH_PDF): $(GRITH_HTML)
@@ -27,3 +34,4 @@ $(GRITH_PDF): $(GRITH_HTML)
 
 clean:
 	rm -f "$(GRITH_PDF)" "$(GRITH_HTML)"
+	rm -rf "$(OUT_DIR)/img" "$(OUT_DIR)/grith.css"
