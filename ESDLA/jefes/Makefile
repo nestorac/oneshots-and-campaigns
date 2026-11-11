@@ -2,22 +2,28 @@
 include ../../tools/Makefile.common
 
 GRITH_MD   := grith.md
-GRITH_TYP  := grith.typ
+GRITH_CSS  := grith.css
+GRITH_HTML := $(OUT_DIR)/grith.html
 GRITH_PDF  := $(OUT_DIR)/grith.pdf
 
-# Objetivo por defecto: solo grith (Typst)
+# Objetivo por defecto: grith con WeasyPrint
 .DEFAULT_GOAL := grith
 
 .PHONY: grith clean all
 
-# Evita que all intente generar pj y aventura
 all: grith
 
 grith: $(GRITH_PDF)
 
-$(GRITH_PDF): $(GRITH_TYP) | $(OUT_DIR)
-	typst compile "$(GRITH_TYP)" "$(GRITH_PDF)"
+$(GRITH_HTML): $(GRITH_MD) $(GRITH_CSS) | $(OUT_DIR)
+	pandoc "$(GRITH_MD)" -o "$(GRITH_HTML)" \
+	  --from=markdown+smart \
+	  --standalone \
+	  --css=$(GRITH_CSS) \
+	  --resource-path=.:img/
 
-# Sobrescribe clean para que solo elimine el PDF de este directorio
+$(GRITH_PDF): $(GRITH_HTML)
+	weasyprint "$(GRITH_HTML)" "$(GRITH_PDF)"
+
 clean:
-	rm -f "$(GRITH_PDF)"
+	rm -f "$(GRITH_PDF)" "$(GRITH_HTML)"
