@@ -4,7 +4,7 @@ include ../../tools/Makefile.common
 GRITH_MD   := grith.md
 GRITH_PDF  := $(OUT_DIR)/grith.pdf
 
-.PHONY: grith clean-grith
+.PHONY: grith clean
 
 grith: engine $(GRITH_PDF)
 
@@ -17,8 +17,6 @@ $(GRITH_PDF): $(GRITH_MD) $(METADATA) | $(OUT_DIR)
 	  --resource-path=.:img/ \
 	  -V mainfont="DejaVu Sans"
 
-# Extiende clean para que también elimine el PDF de Grith
-clean: clean-grith
-
-clean-grith:
+# Sobrescribe clean para que solo elimine el PDF de este directorio
+clean:
 	rm -f "$(GRITH_PDF)"
